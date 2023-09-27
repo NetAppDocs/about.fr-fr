@@ -1,0 +1,43 @@
+---
+sidebar: sidebar 
+permalink: docs-netapp-com.html 
+keywords:  
+summary:  
+---
+= Environ docs.netapp.com sites
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+.Visite du site
+video::77a636ba-4202-45bb-9e47-b08a01138502[panopto]
+.Transcription
+[%collapsible]
+====
+&#91;0:01 et#93;:: Bonjour à tous. C'est Ben de l'équipe docs.netapp.com. Dans cette vidéo, nous allons examiner les fonctionnalités disponibles sur docs.netapp.com pour vous aider à tirer le meilleur parti de votre expérience de visualisation de contenu.
+&#91;0:12 et#93;:: Commençons par trouver le contenu que vous recherchez. Une fois que vous avez entré un site doc, vous pouvez utiliser le côté gauche du site pour naviguer.
+&#91;0:20 et#93;:: Si plusieurs versions de la documentation sont disponibles, vous pouvez sélectionner les documents correspondant à la version du produit que vous utilisez.
+&#91;0:28 et#93;:: Utilisez la zone de recherche pour trouver du contenu dans un site de documents. Par exemple, je veux savoir comment fonctionne le chiffrement des volumes.
+&#91;0:36 et#93;:: Si vous préférez parcourir les documents, vous pouvez utiliser la table des matières, qui est organisée en regroupements logiques comme la mise en route et l'utilisation du produit.
+&#91;0:45 et#93;:: Si vous souhaitez accéder à un autre site de documents, vous pouvez utiliser le fil d'Ariane pour naviguer dans docs.netapp.com.
+&#91;0:50 et#93;:: Une fois que vous avez trouvé le contenu que vous recherchez, quelques fonctionnalités clés sont disponibles pour vous aider à interagir avec le contenu.
+&#91;0:58 et#93;:: La plupart des sites de documentation sont disponibles dans plusieurs langues différentes afin que vous puissiez lire les documents dans votre langue préférée.
+&#91;1:05 et#93;:: Si une page comporte plusieurs sections, vous pouvez utiliser les liens « sur cette page » pour accéder directement au contenu que vous recherchez. Les liens indiquent également où vous vous trouvez sur la page, ce qui peut vous aider à suivre le long de votre défilement.
+&#91;1:20 et#93;:: Pour vous concentrer uniquement sur le contenu lui-même, vous pouvez réduire les barres latérales gauche et droite. Lorsque vous avez terminé, développez-les pour afficher à nouveau les commandes de navigation.
+&#91;1:33 et#93;:: Si vous avez besoin de lire les documents hors ligne, vous pouvez télécharger un PDF de l'ensemble du site de documentation ou des sections individuelles du site.
+&#91;1:41 et#93;:: La documentation NetApp est une source ouverte conçue pour permettre les contributions de la communauté à l'aide d'un compte GitHub. Envoyez vos commentaires pour demander une mise à jour de la documentation ou modifier directement vous-même le contenu, qui est soumis à un responsable du contenu NetApp avant la fusion.
+&#91;1:59 et#93;:: Sur les sites de documentation de certains de nos services cloud, il est possible que vous voyiez une option de fournisseur de cloud qui vous permette de filtrer les documents vers un fournisseur de cloud spécifique. Par exemple, si vous sélectionnez Microsoft Azure, vous ne verrez que le contenu qui s'applique à Azure. Le contenu destiné aux autres fournisseurs de cloud n'apparaît pas.
+&#91;2:18 et#93;:: Comme vous pouvez accéder à notre contenu à partir d'une tablette, d'un appareil mobile ou d'un ordinateur de bureau, nous utilisons une mise en page réactive pour garantir l'aspect parfait de nos documents sur n'importe quel appareil.
+&#91;2:28 et#93;:: Et c’est tout. Nous espérons que vous apprécierez l'utilisation de ces fonctionnalités et vous remercions de faire partie de notre communauté de contenu.
+
+
+====

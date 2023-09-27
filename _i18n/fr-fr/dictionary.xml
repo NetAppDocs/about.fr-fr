@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
+  <block id="76461c921fd953874545c28924c497a5" category="doc">Environ docs.netapp.com sites</block>
+  <block id="55ff05b2fa7e1012dea362f024c523d4" category="video-title">Visite du site</block>
+  <block id="f24f9b19509f19811927c2c5108eb69f" category="example-title">Transcription</block>
+  <block id="001451b8eac2d5ba56f77c33e6058082" category="list-text">&amp;#91;0:01 et#93;</block>
+  <block id="4ade6453893cfbe2522908af64833211" category="list-text">Bonjour à tous. C'est Ben de l'équipe docs.netapp.com. Dans cette vidéo, nous allons examiner les fonctionnalités disponibles sur docs.netapp.com pour vous aider à tirer le meilleur parti de votre expérience de visualisation de contenu.</block>
+  <block id="0563c9ce91e1c11d6ad29a8969b5f33a" category="list-text">&amp;#91;0:12 et#93;</block>
+  <block id="0e211f38bb42111667c024142b66f04f" category="list-text">Commençons par trouver le contenu que vous recherchez. Une fois que vous avez entré un site doc, vous pouvez utiliser le côté gauche du site pour naviguer.</block>
+  <block id="8f93d656e679ff035d090620e75b413c" category="list-text">&amp;#91;0:20 et#93;</block>
+  <block id="8dccc52d59eeb736d56dd1b6b44802c9" category="list-text">Si plusieurs versions de la documentation sont disponibles, vous pouvez sélectionner les documents correspondant à la version du produit que vous utilisez.</block>
+  <block id="aa34fdc7e388719caf41006108441b71" category="list-text">&amp;#91;0:28 et#93;</block>
+  <block id="dd7e3c5a91863520509b8bd47b5fb184" category="list-text">Utilisez la zone de recherche pour trouver du contenu dans un site de documents. Par exemple, je veux savoir comment fonctionne le chiffrement des volumes.</block>
+  <block id="600e453e197e97d216bb3d993a8a0fb0" category="list-text">&amp;#91;0:36 et#93;</block>
+  <block id="8e04744bf4ce3a99c048afd6dcc9f44b" category="list-text">Si vous préférez parcourir les documents, vous pouvez utiliser la table des matières, qui est organisée en regroupements logiques comme la mise en route et l'utilisation du produit.</block>
+  <block id="df50a755abbfca8d747a3b88f08ae781" category="list-text">&amp;#91;0:45 et#93;</block>
+  <block id="154b5fdb7571773817017921e46ae33d" category="list-text">Si vous souhaitez accéder à un autre site de documents, vous pouvez utiliser le fil d'Ariane pour naviguer dans docs.netapp.com.</block>
+  <block id="3b0992758991e1911574d554d3026cb8" category="list-text">&amp;#91;0:50 et#93;</block>
+  <block id="31278ba45f6e1d30f6f231f3e5f1a36d" category="list-text">Une fois que vous avez trouvé le contenu que vous recherchez, quelques fonctionnalités clés sont disponibles pour vous aider à interagir avec le contenu.</block>
+  <block id="68c77cb943dbfc9eae43a6815a972242" category="list-text">&amp;#91;0:58 et#93;</block>
+  <block id="6cb3e320d779a4a61d2879df5bd84e9f" category="list-text">La plupart des sites de documentation sont disponibles dans plusieurs langues différentes afin que vous puissiez lire les documents dans votre langue préférée.</block>
+  <block id="3bad7aa8d678bd594b1538b0dd2b86b3" category="list-text">&amp;#91;1:05 et#93;</block>
+  <block id="1688c88768c109f923e65f29244c8d09" category="list-text">Si une page comporte plusieurs sections, vous pouvez utiliser les liens « sur cette page » pour accéder directement au contenu que vous recherchez. Les liens indiquent également où vous vous trouvez sur la page, ce qui peut vous aider à suivre le long de votre défilement.</block>
+  <block id="167973d06e8c4ea7919a95c0c2d227e2" category="list-text">&amp;#91;1:20 et#93;</block>
+  <block id="731678ea16207e95dd4c230e861e27ce" category="list-text">Pour vous concentrer uniquement sur le contenu lui-même, vous pouvez réduire les barres latérales gauche et droite. Lorsque vous avez terminé, développez-les pour afficher à nouveau les commandes de navigation.</block>
+  <block id="4541b5b3e42f7185d574faa374d10061" category="list-text">&amp;#91;1:33 et#93;</block>
+  <block id="bc382af4f7df607310494c6a0db0da6d" category="list-text">Si vous avez besoin de lire les documents hors ligne, vous pouvez télécharger un PDF de l'ensemble du site de documentation ou des sections individuelles du site.</block>
+  <block id="66dc9ca0ecb6d1cde3f5e646f3c1cb4e" category="list-text">&amp;#91;1:41 et#93;</block>
+  <block id="11a4aef0f88e6d42f746f1e3807e1f0e" category="list-text">La documentation NetApp est une source ouverte conçue pour permettre les contributions de la communauté à l'aide d'un compte GitHub. Envoyez vos commentaires pour demander une mise à jour de la documentation ou modifier directement vous-même le contenu, qui est soumis à un responsable du contenu NetApp avant la fusion.</block>
+  <block id="e2e5b6519329388ecd5fe4124aa00f5e" category="list-text">&amp;#91;1:59 et#93;</block>
+  <block id="cae12efe5fddc5b227738098a513f050" category="list-text">Sur les sites de documentation de certains de nos services cloud, il est possible que vous voyiez une option de fournisseur de cloud qui vous permette de filtrer les documents vers un fournisseur de cloud spécifique. Par exemple, si vous sélectionnez Microsoft Azure, vous ne verrez que le contenu qui s'applique à Azure. Le contenu destiné aux autres fournisseurs de cloud n'apparaît pas.</block>
+  <block id="23e64bc66c69ac4a936da68a4a09fae5" category="list-text">&amp;#91;2:18 et#93;</block>
+  <block id="de57fe86208320d05e4f48a11939d075" category="list-text">Comme vous pouvez accéder à notre contenu à partir d'une tablette, d'un appareil mobile ou d'un ordinateur de bureau, nous utilisons une mise en page réactive pour garantir l'aspect parfait de nos documents sur n'importe quel appareil.</block>
+  <block id="fd46289ab456ebe6dc0adaa20d398b2b" category="list-text">&amp;#91;2:28 et#93;</block>
+  <block id="c7f671298576d5432049913e0335f76f" category="list-text">Et c’est tout. Nous espérons que vous apprécierez l'utilisation de ces fonctionnalités et vous remercions de faire partie de notre communauté de contenu.</block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">Mentions légales</block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">Les mentions légales donnent accès aux déclarations de copyright, aux marques, aux brevets, etc.</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">Droits d'auteur</block>
+  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
+  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">Marques déposées</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NetApp, le logo NETAPP et les marques mentionnées sur la page des marques commerciales NetApp sont des marques commerciales de NetApp, Inc. Les autres noms de sociétés et de produits peuvent être des marques commerciales de leurs propriétaires respectifs.</block>
+  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
+  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">Brevets</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">Vous trouverez une liste actuelle des brevets appartenant à NetApp à l'adresse suivante :</block>
+  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
+  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">Politique de confidentialité</block>
+  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
+  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">Source ouverte</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">Les fichiers de notification fournissent des informations sur les droits d'auteur et les licences de tiers utilisés dans le logiciel NetApp.</block>
+  <block id="a415b3159b192a5228f36d0322ee9f1d" category="doc">Environ docs.netapp.com</block>
+  <block id="4fbdf2eea8c892890a6818b154ed392b" category="sidebar">À propos des sites</block>
+</blocks>

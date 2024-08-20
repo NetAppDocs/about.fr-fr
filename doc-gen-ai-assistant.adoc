@@ -1,0 +1,97 @@
+---
+sidebar: sidebar 
+permalink: doc-gen-ai-assistant.html 
+keywords:  
+summary: 'Doc est notre assistant génératif optimisé par l"IA sur docs.netapp.com. Doc est conçu pour répondre aux questions sur les produits NetApp. Par exemple, Doc peut répondre à des questions sur les fonctionnalités d"efficacité du stockage NetApp ou les meilleures pratiques de sauvegarde et de restauration pour les environnements multicloud.' 
+---
+= Conditions d'utilisation de l'assistant NetApp Generative ai
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Doc est notre assistant génératif optimisé par l'IA sur docs.netapp.com. Doc est conçu pour répondre aux questions sur les produits NetApp. Par exemple, Doc peut répondre à des questions sur les fonctionnalités d'efficacité du stockage NetApp ou les meilleures pratiques de sauvegarde et de restauration pour les environnements multicloud.
+
+Cette version bêta de Doc crée un contenu généré par des algorithmes qui peut contenir des erreurs ou des inexactitudes. Tout le contenu généré doit être utilisé comme point de départ uniquement. Vérifiez toujours les réponses de Doc. En vous reportant à la documentation officielle sur les produits de NetApp. Toute dépendance aux réponses générées par Doc est à vos propres risques et NetApp n'est pas responsable des problèmes ou difficultés qui peuvent survenir en utilisant uniquement les réponses générées par Doc.
+
+
+
+== Conditions
+
+En utilisant Doc, vous acceptez de respecter les règles et les stipulations suivantes lors de la génération du contenu et des réponses. Le non-respect de ces termes peut empêcher l'utilisation de Doc
+
+* N'essayez pas d'utiliser Doc pour produire du contenu qui pourrait causer des dommages, des abus, de la violence ou de la tromperie.
+* N'essayez pas d'engager Doc dans des conversations qui ne sont pas dans le cadre de son objectif prévu ou d'obtenir des réponses à des questions qui ne concernent pas les produits NetApp.
+
+
+
+
+== Capacités
+
+* Doc n'est pas un éléphant mais a tout à fait une mémoire.
++
+La plupart du temps, Doc se souvient et fait attention à ce que vous discutez. Si Doc perd la trace d'une conversation, vous pouvez en commencer une nouvelle dans la même session de discussion.
+
+* Doc est un lecteur avide.
++
+Chaque fois que nos documents sont publiés sur docs.netapp.com (et cela arrive beaucoup), Doc lit et sera en mesure de les référencer pour générer ses réponses. C'est incroyable de voir la rapidité avec laquelle Doc apprend.
+
+* Doc est consultatif.
++
+Doc propose des suggestions pour les questions que vous pourriez vouloir poser en plus de celles que vous avez posées.
+
+* Le DOC est communicatif.
++
+Doc vous explique comment il génère ses réponses, ce qui vous donne l'occasion de reformuler vos questions.
+
+
+
+
+
+== Limites
+
+* Si un produit NetApp possède plusieurs versions de la documentation, Doc fait uniquement référence à la dernière version pour vous aider à générer des réponses.
+* Pendant la version bêta, Doc ne fait pas référence à toute la documentation de tous les produits NetApp. Doc fait uniquement référence à un sous-ensemble de documentation, y compris, mais sans s'y limiter, les documents ONTAP et BlueXP  pour vous aider à générer des réponses.
+* Bien que Doc puisse fournir des réponses dans d'autres langues, Doc n'a pas lu les versions non anglaises des documents produits NetApp. Pour vous assurer que vous disposez des informations les plus précises possible, vérifiez toujours les réponses de Doc en anglais.
+
+
+
+
+== Conseils
+
+* Doc aime les questions spécifiques.
++
+Doc fournit de meilleures réponses lorsque vous citez explicitement un nom de produit, une interface (par exemple, une interface graphique ou une API) et une version. Par exemple : _Quelles étapes dois-je suivre dans System Manager pour effectuer la mise à niveau de ONTAP 9.8 vers ONTAP 9.12.1 ?_
+
+* Vous souhaitez apprendre à faire quelque chose ?
++
+Demandez à Doc d'inclure les étapes. Au lieu de demander Doc _Comment installer le connecteur BlueXP  sans Internet?_ essayez de vous demander _Quelles étapes dois-je suivre pour installer le connecteur BlueXP  sans Internet?_
+
+* Posez des questions simples.
++
+Si vous devez poser une question complexe, divisez-la en questions plus petites (c'est parfois appelé questions de chaînage). Au cours d'une session de discussion, Doc attire l'attention et se souvient des questions que vous posez.
+
++
+Au lieu de vous poser la question du document _Comment configurer la protection contre les ransomware et les calendriers de sauvegarde dans BlueXP ?_ essayez _Quelles sont les étapes de configuration de la protection contre les ransomware dans BlueXP ?_ et _Quelles sont les étapes de configuration des plannings de sauvegarde dans BlueXP ?_
+
+* Utilisez des guillemets pour clarifier quand vous voulez que Doc prête attention aux expressions à plusieurs mots que Doc pourrait mal interpréter.
++
+Par exemple, si vous demandez au document intitulé « Comment l'efficacité du stockage est-elle calculée dans ONTAP ?_ c'est possible. Pourriez-vous vous demander ce que sont le stockage et l'efficacité en deux mots sans rapport avec d'autres termes ? Pour vous assurer que Doc comprend bien votre question sur l'efficacité du stockage (le concept appelé), placez cette expression dans des citations comme suit : _Comment l'efficacité du stockage est-elle calculée dans ONTAP ?_
+
++
+Si vous aviez une conversation avec un humain, vous pourriez probablement mettre l'expression en valeur, peut-être utiliser des citations d'air, ou le geste d'une manière qui rend la distinction évidente. Considérez les guillemets comme un geste qui aide Doc à comprendre ce dont vous parlez.
+
+* Après avoir répondu, Doc fournit des informations sur la façon dont il a généré sa réponse. Faire preuve de curiosité.
++
+Essayez différents modèles et approches pour poser des questions. Si vous n'obtenez pas le résultat que vous voulez, essayez de reformuler votre question.
+
+
+
+
+
+== Commentaires
+
+Nous nous efforçons d'améliorer continuellement le document Veuillez nous envoyer vos commentaires dans la fenêtre de discussion de Doc. Dites-nous si les réponses de Doc sont exactes et utiles ou si elles sont incomplètes ou insuffisantes. Vous pouvez également mailto:ng-doccoments@netapp.com[nous contacter] si vous avez des questions ou des préoccupations concernant les capacités ou les réponses de Doc.

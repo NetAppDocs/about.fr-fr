@@ -42,7 +42,7 @@ Doc vous explique comment il génère ses réponses, ce qui vous donne l'occasio
 == Limites
 
 * Doc utilise uniquement le contenu publié sur docs.NetApp.com pour générer des réponses. Doc ne génère pas de réponses à partir de contenu publié sur d'autres sites Web NetApp.
-* Pendant la version bêta, Doc ne fait pas référence à toute la documentation de tous les produits NetApp. Doc fait référence uniquement à un sous-ensemble de documentation, y compris, mais sans s'y limiter, les documents ONTAP, BlueXP , StorageGRID, Keystone et SnapCenter pour vous aider à générer des réponses. Si vous recherchez des informations que Doc ne connaît pas, mailto:ng-doccoments@NetApp.com[faites-nous savoir].
+* Pendant la version bêta, Doc ne fait pas référence à toute la documentation de tous les produits NetApp. Doc fait référence uniquement à un sous-ensemble de documentation, y compris, mais sans s'y limiter, les documents ONTAP, BlueXP , StorageGRID, Keystone et SnapCenter pour vous aider à générer des réponses. Si vous recherchez des informations que Doc ne connaît pas, mailto:ng-doccommentaires@NetApp.com[faites-nous savoir].
 * Si un produit NetApp possède plusieurs versions de la documentation, Doc fait uniquement référence à la dernière version pour vous aider à générer des réponses.
 * Doc ne fait pas référence à la page sur laquelle vous êtes en train de faire des hypothèses sur le produit qui vous intéresse. Soyez aussi précis que possible avec vos questions, en mentionnant les noms et les versions des produits.
 * Bien que Doc puisse fournir des réponses dans d'autres langues, Doc n'a pas lu les versions non anglaises des documents produits NetApp. Pour vous assurer que vous disposez des informations les plus précises possible, vérifiez toujours les réponses de Doc en anglais.
@@ -84,4 +84,4 @@ Essayez différents modèles et approches pour poser des questions. Si vous n'ob
 
 == Commentaires
 
-Nous nous efforçons d'améliorer continuellement le document Veuillez nous envoyer vos commentaires dans la fenêtre de discussion de Doc. Dites-nous si les réponses de Doc sont exactes et utiles ou si elles sont incomplètes ou insuffisantes. Vous pouvez également mailto:ng-doccoments@netapp.com[nous contacter] si vous avez des questions ou des préoccupations concernant les capacités ou les réponses de Doc.
+Nous nous efforçons d'améliorer continuellement le document Veuillez nous envoyer vos commentaires dans la fenêtre de discussion de Doc. Dites-nous si les réponses de Doc sont exactes et utiles ou si elles sont incomplètes ou insuffisantes. Vous pouvez également mailto:ng-doccomments@netapp.com[nous contacter] si vous avez des questions ou des préoccupations concernant les capacités ou les réponses de Doc.

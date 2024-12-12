@@ -31,4 +31,4 @@ En utilisant Doc, vous acceptez de respecter les règles et les stipulations sui
 
 == Commentaires
 
-Nous nous efforçons d'améliorer continuellement le document Veuillez nous envoyer vos commentaires dans la fenêtre de discussion de Doc. Dites-nous si les réponses de Doc sont exactes et utiles ou si elles sont incomplètes ou insuffisantes. Vous pouvez également mailto:ng-doccoments@netapp.com[nous contacter] si vous avez des questions ou des préoccupations concernant les capacités ou les réponses de Doc.
+Nous nous efforçons d'améliorer continuellement le document Veuillez nous envoyer vos commentaires dans la fenêtre de discussion de Doc. Dites-nous si les réponses de Doc sont exactes et utiles ou si elles sont incomplètes ou insuffisantes. Vous pouvez également mailto:ng-doccomments@netapp.com[nous contacter] si vous avez des questions ou des préoccupations concernant les capacités ou les réponses de Doc.

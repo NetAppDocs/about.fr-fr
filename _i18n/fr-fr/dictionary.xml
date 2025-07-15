@@ -72,8 +72,6 @@
   <block id="78d84dc38711d923fa1dc1351e7e5a90" category="section-title">Portée et limites</block>
   <block id="e02e8d81102c18e5ac8688f45881ccb4" category="paragraph">Doc ne peut répondre qu'aux questions en fonction du contenu publié sur docs.NetApp.com.</block>
   <block id="ac9a966db57853c0bb3b03769804fffe" category="admonition">Au cours de cette phase bêta, Doc n'est pas formé sur tout le contenu docs.NetApp.com. Doc peut répondre à des questions sur le contenu, y compris, mais sans s'y limiter, le contenu ONTAP, BlueXP , StorageGRID, Keystone et SnapCenter. Si vous avez besoin d'information Doc n'a pas, faites-le nous savoir.</block>
-  <block id="5cce09c2cd6acff384726d4c5913b10a" category="list-text">Si vous ne spécifiez pas de version de produit, Doc répond aux questions basées sur la dernière version publiée. Si nécessaire, vous pouvez spécifier une version antérieure dans votre question.</block>
-  <block id="ba2e07590de589acb6827cadda0ba814" category="list-text">Doc ne sait pas quelle page vous êtes lorsque vous posez une question. Pour de meilleurs résultats, soyez précis avec les noms de produits et les versions.</block>
   <block id="d3aab3cd74c1c5868499ccc53ebe0a75" category="list-text">Doc peut discuter dans les langues prises en charge sur docs.NetApp.com, mais n'est pas formé sur les versions non anglaises.</block>
   <block id="e4a95039ccdfb7b85c839ab71de68d99" category="section-title">Rédaction de bons messages-guides</block>
   <block id="b0d6ece087301f0de0e69fb8d2e2b5ec" category="paragraph">Suivez ces conseils pour une expérience optimale avec Doc</block>
@@ -98,4 +96,6 @@
   <block id="e10d7022bccbf44b070810cd5909184e" category="list-text">Effacer l'historique de vos discussions</block>
   <block id="3508984ba8ee3276c733e57293128c50" category="list-text">Si vous souhaitez modifier des rubriques, supprimez la discussion dès le début. Comme Doc se souvient des questions précédentes, les changements de sujet peuvent produire des résultats inattendus.</block>
   <block id="5ac85d6acb2d0e353a29dbf8a61e4a47" category="paragraph">Vos commentaires nous aideront à améliorer la réponse de Doc. Utilisez l'outil de commentaires de la fenêtre de discussion Doc pour nous indiquer si les réponses sont exactes et utiles ou si elles ont besoin d'amélioration. Vous pouvez également envoyer à mailto:ng-doccommentaires@NetApp.com[nous contacter] si vous avez des questions ou des commentaires.</block>
+  <block id="430fdc9d9149c8cc43c466b7320e92b9" category="list-text">Doc répond aux questions en se basant uniquement sur la dernière version publiée d'un produit. Par exemple, s'il existe une documentation pour les versions 1.0 et 2.0 d'un produit, Doc se réfère uniquement à la documentation 2.0 la plus récente.</block>
+  <block id="9f1b245deb3e474f47cde2de8fa217be" category="list-text">Pour de meilleurs résultats, soyez toujours précis dans les noms de produits. Doc sait sur quelle page vous vous trouvez lorsque vous posez une question, mais ce n'est qu'un facteur parmi d'autres qu'il prend en compte pour formuler une réponse.</block>
 </blocks>

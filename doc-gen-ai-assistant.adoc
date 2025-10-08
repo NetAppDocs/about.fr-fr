@@ -24,7 +24,7 @@ Le DOC peut créer des réponses à partir de questions précédentes, suggérer
 Doc ne peut répondre qu'aux questions en fonction du contenu publié sur docs.NetApp.com.
 
 
-NOTE: Pendant la phase bêta, Doc utilise la plupart des contenus publiés sur docs.netapp.com pour répondre aux questions. Il connaît bien la documentation ONTAP, BlueXP, StorageGRID, E-Series, Keystone et SnapCenter et s'en sert pour répondre à ses questions sur ces produits. En revanche, il ne connaît pas bien la documentation de certains produits existants. Par exemple, il n'utilise pas la documentation de SnapDrive for UNIX pour répondre à ses questions. Tout au long de la phase bêta, nous travaillons à affiner ses connaissances. Si vous avez besoin d'informations que Doc ne possède pas, envoyez un e-mail à : ng-doccomments@netapp.com [nous le faire savoir].
+NOTE: Pendant la phase bêta, Doc utilise la plupart, mais pas la totalité, du contenu publié sur docs.netapp.com pour répondre aux questions.  Doc connaît tous les documents ONTAP, NetApp Console, StorageGRID, E-Series, Keystone et SnapCenter et les utilise pour répondre aux questions sur ces produits.  D'autre part, Doc n'est pas familier avec la documentation de certains produits hérités.  Par exemple, Doc n'utilise pas SnapDrive for UNIX pour fournir des réponses.  Tout au long de la bêta, nous travaillons à affiner les connaissances de Doc.  Si vous avez besoin d'informations que Doc n'a pas, envoyez un mail à : ng-doccomments@netapp.com [faites-le nous savoir].
 
 * Doc répond aux questions en se basant uniquement sur la dernière version publiée d'un produit. Par exemple, s'il existe une documentation pour les versions 1.0 et 2.0 d'un produit, Doc se réfère uniquement à la documentation 2.0 la plus récente.
 * Pour de meilleurs résultats, soyez toujours précis dans les noms de produits. Doc sait sur quelle page vous vous trouvez lorsque vous posez une question, mais ce n'est qu'un facteur parmi d'autres qu'il prend en compte pour formuler une réponse.
@@ -46,30 +46,30 @@ Quelles étapes dois-je suivre dans System Manager pour effectuer la mise à niv
 
 ====
 --
-Demandez des étapes pour effectuer une tâche.:: Demandez à Doc d'inclure les étapes pour terminer un processus. Au lieu de demander _Comment installer le connecteur BlueXP  sans Internet?_ essayez :
+Demandez des étapes pour effectuer une tâche.:: Demandez au Doc d’inclure les étapes pour terminer un processus.  Au lieu de demander _Comment installer l'agent de la console NetApp sans Internet ?_ essayez :
 +
 --
 []
 ====
-Quelles étapes dois-je suivre pour installer BlueXP  Connector sans Internet ?
+Quelles étapes dois-je suivre pour installer l’agent NetApp Console sans Internet ?
 
 ====
 --
 Divisez les questions complexes en blocs.:: Divisez les questions complexes en questions plus petites (également appelées _chaînage_). Doc se souvient des questions précédentes et crée des réponses plus complexes pendant que vous continuez à discuter.
 +
 --
-Par exemple, au lieu de vous poser la question suivante : « Comment configurer la protection contre les ransomwares et les plannings de sauvegarde dans BlueXP  ?_ essayez :
+Par exemple, au lieu de demander au Doc « Comment configurer la protection contre les ransomwares et les planifications de sauvegarde dans la console NetApp ? », essayez :
 
 []
 ====
-Quelles sont les étapes de configuration de la protection contre les ransomwares dans BlueXP  ?
+Quelles sont les étapes à suivre pour configurer la protection contre les ransomwares dans la console NetApp ?
 
 ====
 puis demander :
 
 []
 ====
-Quelles sont les étapes de configuration des plannings de sauvegarde dans BlueXP  ?
+Quelles sont les étapes à suivre pour configurer les planifications de sauvegarde dans la console NetApp ?
 
 ====
 --

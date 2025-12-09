@@ -68,7 +68,6 @@
   <block id="858a13328205a50b4d4ea7a8e790b8b7" category="paragraph">Nous nous efforçons d'améliorer continuellement le document Veuillez nous envoyer vos commentaires dans la fenêtre de discussion de Doc. Dites-nous si les réponses de Doc sont exactes et utiles ou si elles sont incomplètes ou insuffisantes. Vous pouvez également mailto:ng-doccomments@netapp.com[nous contacter] si vous avez des questions ou des préoccupations concernant les capacités ou les réponses de Doc.</block>
   <block id="6179d3ef872af4eb960f4c34232845fc" category="paragraph">Le DOC peut créer des réponses à partir de questions précédentes, suggérer des questions supplémentaires et expliquer comment il génère des réponses. Cela en fait un outil précieux pour naviguer dans la documentation NetApp.</block>
   <block id="78d84dc38711d923fa1dc1351e7e5a90" category="section-title">Portée et limites</block>
-  <block id="e02e8d81102c18e5ac8688f45881ccb4" category="paragraph">Doc ne peut répondre qu'aux questions en fonction du contenu publié sur docs.NetApp.com.</block>
   <block id="d3aab3cd74c1c5868499ccc53ebe0a75" category="list-text">Doc peut discuter dans les langues prises en charge sur docs.NetApp.com, mais n'est pas formé sur les versions non anglaises.</block>
   <block id="e4a95039ccdfb7b85c839ab71de68d99" category="section-title">Rédaction de bons messages-guides</block>
   <block id="b0d6ece087301f0de0e69fb8d2e2b5ec" category="paragraph">Suivez ces conseils pour une expérience optimale avec Doc</block>
@@ -96,4 +95,5 @@
   <block id="a4a2ff9e664b60a6bdd6cdbe4fcc1447" category="paragraph">Quelles sont les étapes à suivre pour configurer la protection contre les ransomwares dans la console NetApp ?</block>
   <block id="98d95c2ccd0fa7f85c70c1ac654e2ac2" category="paragraph">Quelles sont les étapes à suivre pour configurer les planifications de sauvegarde dans la console NetApp ?</block>
   <block id="c1dd50d72cdca10e54e035173567497f" category="paragraph">Doc crée du contenu généré par un algorithme qui peut contenir des erreurs ou des inexactitudes. Tout contenu généré ne doit être utilisé qu'à titre de point de départ. Vous devez toujours vérifier les réponses de Doc en vous référant à la documentation produit officielle de NetApp. Toute utilisation des réponses générées par Doc se fait à vos propres risques, et NetApp n'est pas responsable des problèmes ou difficultés pouvant survenir en utilisant uniquement les réponses générées par Doc.</block>
+  <block id="8a5bdbcb5016ac5e4f002667c3de782f" category="paragraph">Doc ne peut répondre qu'aux questions basées sur le contenu publié sur docs.netapp.com.</block>
 </blocks>

@@ -19,6 +19,7 @@ Le DOC peut créer des réponses à partir de questions précédentes, suggérer
 
 
 
+[[scope-and-limitations]]
 == Portée et limites
 
 Doc ne peut répondre qu'aux questions basées sur le contenu publié sur docs.netapp.com.
@@ -30,6 +31,7 @@ Doc ne peut répondre qu'aux questions basées sur le contenu publié sur docs.n
 
 
 
+[[writing-good-prompts]]
 == Rédaction de bons messages-guides
 
 Suivez ces conseils pour une expérience optimale avec Doc
@@ -87,6 +89,7 @@ Effacer l'historique de vos discussions:: Si vous souhaitez changer de sujet (pa
 
 
 
+[[feedback]]
 == Commentaires
 
 Nous nous efforçons d'améliorer continuellement le document Veuillez nous envoyer vos commentaires dans la fenêtre de discussion de Doc. Dites-nous si les réponses de Doc sont exactes et utiles ou si elles sont incomplètes ou insuffisantes. Vous pouvez également mailto:ng-doccomments@netapp.com[nous contacter] si vous avez des questions ou des préoccupations concernant les capacités ou les réponses de Doc.

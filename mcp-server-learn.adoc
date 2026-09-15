@@ -23,10 +23,10 @@ Le serveur MCP (Model Context Protocol) de docs.netapp.com fournit une couche d'
 
 En fournissant un accès structuré à la documentation NetApp, le serveur MCP docs.netapp.com permet aux agents d’IA de :
 
-* Découvrez la documentation pertinente
-* Récupérer le contenu complet du document
-* Générez des réponses basées sur la documentation (génération de réponses basée sur RAG)
-* Produisez des réponses fondées et vérifiables
+* Découvrez la documentation pertinente.
+* Récupérez le contenu complet du document.
+* Générez des réponses à partir de la documentation (génération de réponses basée sur RAG).
+* Produisez des réponses vérifiables.
 
 
 Vous pouvez utiliser le serveur MCP docs.netapp.com pour :
@@ -34,7 +34,7 @@ Vous pouvez utiliser le serveur MCP docs.netapp.com pour :
 * Améliorez les environnements de développement agentiques avec le contenu NetApp.
 * Assurez le support technique et les flux de travail qui nécessitent une documentation fiable.
 * Réduisez le besoin de créer et de maintenir des intégrations personnalisées de recherche, de récupération ou de RAG.
-* Fournissez des réponses fondées sur la documentation officielle de NetApp.
+* Fournissez des réponses tirées de la documentation officielle NetApp.
 
 
 
@@ -42,11 +42,11 @@ Vous pouvez utiliser le serveur MCP docs.netapp.com pour :
 [[how-the-docs-netapp-com-mcp-server-works]]
 == Fonctionnement du serveur MCP docs.netapp.com
 
-Le serveur MCP sert d’interface avec la documentation officielle de NetApp et renvoie des réponses étayées provenant du contenu publié.
+Le serveur MCP sert d'interface avec la documentation officielle NetApp et renvoie des réponses issues du contenu publié sur docs.netapp.com.
 
 . L'agent IA envoie une requête au serveur MCP.
 . Le serveur MCP récupère la documentation pertinente.
-. Le système renvoie une réponse structurée et fondée.
+. Le système renvoie une réponse structurée.
 
 
 

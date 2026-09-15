@@ -59,7 +59,7 @@ Le serveur MCP de docs.netapp.com propose un ensemble d'outils restreint et cibl
 
 Le serveur fournit actuellement les outils suivants :
 
-* `netapp_docs_ask` : Génère des réponses fondées sur la documentation à l'aide d'un flux de travail de génération augmenté par la recherche.
+* `netapp_docs_ask` : Génère des réponses dérivées du contenu publié sur docs.netapp.com à l'aide d'un flux de travail de génération augmenté par la récupération.
 * `netapp_docs_search` : Découvre les pages de documentation NetApp pertinentes à l'aide de requêtes par mots-clés et en langage naturel.
 * `netapp_docs_fetch`: Récupère le contenu structuré d'une page de documentation ou d'un article spécifique.
 * `health_check`: Valide la disponibilité du serveur MCP.
